@@ -10,7 +10,7 @@ toy_story = Media.Movie(
                         "Toy Story",
                         "toys come alive and show what it really means \
                         about friendship",
-                        "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg"  # noqa,
+                        "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",  # noqa
                         "https://www.youtube.com/watch?v=KYz2wyBy3kc"
                         )
 
@@ -18,7 +18,7 @@ rocky_movie = Media.Movie(
                         "Rocky",
                         "An underdog boxer overcome the odds of\
                         million to one",
-                        "https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg"   # noqa,
+                        "https://upload.wikimedia.org/wikipedia/en/1/18/Rocky_poster.jpg",   # noqa
                         "https://www.youtube.com/watch?v=7RYpJAUMo2M"
                         )
 
@@ -26,28 +26,28 @@ forrest_gump_movie = Media.Movie(
                                 "forrest gump",
                                 "The story of a man with an IQ of 75 and his\
                                 epic life Journey.",
-                                "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"     # noqa,
+                                "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",     # noqa
                                 "https://www.youtube.com/watch?v=bLvqoHBptjg"
                                 )
 
 jerry_maguire_movie = Media.Movie(
                                 "Jerry Maquire",
                                 "A sports agnet fights for what he believe in",
-                                 "https://upload.wikimedia.org/wikipedia/en/e/ea/Jerry_Maguire_movie_poster.jpg",  # noqa,
+                                 "https://upload.wikimedia.org/wikipedia/en/e/ea/Jerry_Maguire_movie_poster.jpg",  # noqa
                                  "https://www.youtube.com/watch?v=bLvqoHBptjg"
                                  )
 
 pumping_iron_movie = Media.Movie(
                                 "Pumping Iron",
                                 "Documentray about the sport of bodybuilding.",
-                                "https://upload.wikimedia.org/wikipedia/en/6/61/Pumping_Iron_movie_poster.jpg"      # noqa,
+                                "https://upload.wikimedia.org/wikipedia/en/6/61/Pumping_Iron_movie_poster.jpg",   # noqa
                                 "https://www.youtube.com/watch?v=e1vprTwGQ4M"
                                 )
 
 men_of_honor_movie = Media.Movie(
                                 "Men of Honor",
                                 "true story of a men",
-                                "https://upload.wikimedia.org/wikipedia/en/d/dd/Men_of_honor_ver1.jpg"  # noqa,
+                                "https://upload.wikimedia.org/wikipedia/en/d/dd/Men_of_honor_ver1.jpg",  # noqa
                                 "https://www.youtube.com/watch?v=m6xGjp0U9Dc"
                                 )
 
